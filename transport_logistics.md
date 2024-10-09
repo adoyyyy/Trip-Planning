@@ -1,6 +1,8 @@
 Transportasi
-1. Mobil 
+1. Mobil
+2. Kereta
 
 Akomodasi
-1. Makan di Resto
-2. Penitipan barang di Venue
+1. Hotel Melati
+2. Tiket Dufan
+3. Makan di Resto
