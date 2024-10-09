@@ -1,5 +1,5 @@
 Transportasi
-Naik kereta
+ kereta
 
 Akomodasi
 1. Hotel Melati
