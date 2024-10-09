@@ -4,4 +4,4 @@ Transportasi
 Akomodasi
 1. Hotel Melati
 2. tiketing dufan
-3. jas hujan di dufah jika hujan
+3. jas hujan di dufan jika hujan
