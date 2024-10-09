@@ -1,2 +1,8 @@
-1. Berangkat ke Dufan 09.00 WIB
-2. Pulang dari Dufan 17.00 WIB
+1. Persiapan 07.00
+2. Berangkat 08.00
+3. sampai 11.00
+4. masuk ke dufan 11.30
+5. makan 14.00
+6. jalan-jalan 16.00
+7. ke blok M 21.00
+8. pulang 23.00
